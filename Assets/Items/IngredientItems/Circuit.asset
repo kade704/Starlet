@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bff934cee428545b88b5d7ebaf87f1, type: 3}
+  m_Name: Circuit
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 7e6a3472d7c401a4dab594287459be85, type: 3}
+  title: "\uD68C\uB85C"
+  canBuy: 1
+  buyStation: {fileID: 11400000, guid: e32d0c35bbb3f204eb07c59debc109aa, type: 2}
+  buyPrice: 9
+  canSell: 1
+  sellPrice: 3
+  canCraft: 1
+  craftItems:
+  - item: {fileID: 11400000, guid: 2c3ab7aea82ae3e45880dbd7e4ede953, type: 2}
+    amount: 4

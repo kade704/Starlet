@@ -1,0 +1,64 @@
+[
+    {
+      "name": "Base",
+      "parent": -1,
+      "connector": -1,
+      "properties": []
+    },
+    {
+      "name": "HullD1",
+      "parent": 0,
+      "connector": 0,
+      "properties": []
+    },
+    {
+      "name": "Gun1",
+      "parent": 0,
+      "connector": 1,
+      "properties": [
+        {
+          "id": "SignalProperty:입력신호",
+          "value": "D"
+        }
+      ]
+    },
+    {
+      "name": "Engine1",
+      "parent": 0,
+      "connector": 2,
+      "properties": [
+        {
+          "id": "SignalProperty:입력신호",
+          "value": "C"
+        }
+      ]
+    },
+    {
+      "name": "HullC1",
+      "parent": 0,
+      "connector": 3,
+      "properties": []
+    },
+    {
+      "name": "Thruster1",
+      "parent": 1,
+      "connector": 0,
+      "properties": [
+        {
+          "id": "SignalProperty:입력신호",
+          "value": "A"
+        }
+      ]
+    },
+    {
+      "name": "Thruster1",
+      "parent": 4,
+      "connector": 0,
+      "properties": [
+        {
+          "id": "SignalProperty:입력신호",
+          "value": "B"
+        }
+      ]
+    }
+  ]

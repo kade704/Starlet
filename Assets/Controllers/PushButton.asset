@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da0c00bab5b801e4ba5e26f908822d0d, type: 3}
+  m_Name: PushButton
+  m_EditorClassIdentifier: 
+  id: 1659876876
+  title: "\uD478\uC26C\uBC84\uD2BC"
+  prefab: {fileID: 8003520355255252810, guid: 9a0f25073702d6043a3fd1fb02ef0fa8, type: 3}
+  icon: {fileID: 21300000, guid: b674f8f88236f304f87524b8f420f83a, type: 3}

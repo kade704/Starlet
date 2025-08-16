@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e209cd40e93b8ee4aad42e362c80bee7, type: 3}
+  m_Name: Thruster2
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 293c504b6035bc54a8096e2d6a4667ec, type: 3}
+  title: "\uD145\uC2A4\uD150 \uCD94\uB825\uAE30"
+  canBuy: 0
+  buyStation: {fileID: 0}
+  buyPrice: 0
+  canSell: 0
+  sellPrice: 8
+  canCraft: 1
+  craftItems:
+  - item: {fileID: 11400000, guid: cb3c76da9f8491f45a099fe6ccb6783a, type: 2}
+    amount: 3
+  - item: {fileID: 11400000, guid: c0d9d6b8fb57362409989d49b79be6ea, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: bf2097d2da6fb47478ab086fffeac890, type: 2}
+    amount: 1
+  prefab: {fileID: 6045924137052539309, guid: 3bba8c1664acce64ab46447666cd1481, type: 3}
+  type: 2

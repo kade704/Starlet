@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e209cd40e93b8ee4aad42e362c80bee7, type: 3}
+  m_Name: Battery2
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 5a02ce1922f818a4aabfcffde17ad1f6, type: 3}
+  title: "\uB300\uD615 \uBC30\uD130\uB9AC"
+  canBuy: 0
+  buyStation: {fileID: 0}
+  buyPrice: 0
+  canSell: 0
+  sellPrice: 8
+  canCraft: 0
+  craftItems: []
+  prefab: {fileID: 5527684503170595446, guid: c22fbc9de8ff7cf4f99b7c14594dbff4, type: 3}
+  type: 3

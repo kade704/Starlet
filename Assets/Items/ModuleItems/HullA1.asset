@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e209cd40e93b8ee4aad42e362c80bee7, type: 3}
+  m_Name: HullA1
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 353a20ec34adcab4abb4efc8747c4b36, type: 3}
+  title: "\uB0A9 \uC120\uCCB4A"
+  canBuy: 0
+  buyStation: {fileID: 0}
+  buyPrice: 0
+  canSell: 0
+  sellPrice: 8
+  canCraft: 1
+  craftItems:
+  - item: {fileID: 11400000, guid: 29a9f39e7de427a43bbfb1fd4e9b4192, type: 2}
+    amount: 2
+  prefab: {fileID: 4697636301290894824, guid: b886976ca442ae248b7eb237facdaa61, type: 3}
+  type: 1

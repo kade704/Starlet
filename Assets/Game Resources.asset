@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0025e654435ee1845abab2c5404896a8, type: 3}
+  m_Name: Game Resources
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 21300000, guid: abdae9387eb3b45468abbed8b24483b3, type: 3}
+    - {fileID: 21300000, guid: 9e037d47142e78943a7505079d16580d, type: 3}
+    - {fileID: 21300000, guid: 939b3a97e9ecbaf4f97c8d12c4af4345, type: 3}
+    - {fileID: 21300000, guid: 81733ca674632094d94605dcfbb4b39f, type: 3}
+    - {fileID: 21300000, guid: 1c295f6f179bf4c42b88bcee5ac8befc, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: moduleTypeSprites
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[ModuleType, Assembly-CSharp],[UnityEngine.Sprite,
+        UnityEngine.CoreModule]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.EnumEqualityComparer`1[[ModuleType, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 5
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1
+    - Name: $v
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 0
+    - Name: $v
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 2
+    - Name: $v
+      Entry: 10
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3
+    - Name: $v
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 4
+    - Name: $v
+      Entry: 10
+      Data: 4
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  moduleItems:
+  - {fileID: 11400000, guid: d17f3337b2544884caf07e6263177d8b, type: 2}
+  - {fileID: 11400000, guid: 3d97d389ad3764b4d9c151ea92c3acf0, type: 2}
+  - {fileID: 11400000, guid: dace299d5107345429be40d0a85987a6, type: 2}
+  - {fileID: 11400000, guid: c88e926c3ffdbbe4b8d84f91368c1550, type: 2}
+  - {fileID: 11400000, guid: c9311ad450b907643978450aeb4ad5a5, type: 2}
+  - {fileID: 11400000, guid: e7e94a8094800a44287e31e1d47a6b13, type: 2}
+  - {fileID: 11400000, guid: e007061ca3343f2438f2b6c51b09a80d, type: 2}
+  - {fileID: 11400000, guid: 820db34c4a816524cb53fb170de200c4, type: 2}
+  - {fileID: 11400000, guid: 69786d772dd7be5478423f408e91ed9c, type: 2}
+  - {fileID: 11400000, guid: 2205fddbd4891384990834d8667f629d, type: 2}
+  - {fileID: 11400000, guid: b7251ca6fc7c3a849be0d9ee34487e7c, type: 2}
+  - {fileID: 11400000, guid: a40c8f578e756fe4da6db54f853de802, type: 2}
+  - {fileID: 11400000, guid: 475c03d3f6f04be46b62482f6a6acfcd, type: 2}
+  - {fileID: 11400000, guid: e904fd4bcc08f9649ae8f7d84ab49f82, type: 2}
+  - {fileID: 11400000, guid: 3880649299459bd46b4d34a96a8e7669, type: 2}
+  - {fileID: 11400000, guid: 5c518357f29179549ba29c520dede832, type: 2}
+  - {fileID: 11400000, guid: af1b64a95aabd6248b390dd54707439c, type: 2}
+  - {fileID: 11400000, guid: e0a7ba1edef58814ba3fb6ac75dda19c, type: 2}
+  - {fileID: 11400000, guid: b2636b562d8554c4bab66becdafaeb0d, type: 2}
+  - {fileID: 11400000, guid: 7f580d7e0186c574fbce99c3ba82a6fd, type: 2}
+  - {fileID: 11400000, guid: 84bc8532823f1204ea9889a87022794c, type: 2}
+  - {fileID: 11400000, guid: d5acf5477121b0741af439b644d37b2c, type: 2}
+  - {fileID: 11400000, guid: bd3a2b828365c3b4cb55bbafa63d2711, type: 2}
+  - {fileID: 11400000, guid: b1d874c3ab69e434dab5c2b954e0a513, type: 2}
+  - {fileID: 11400000, guid: eacf44a65406d1e47865ca4518b466b7, type: 2}
+  - {fileID: 11400000, guid: 815b47ff8a3b71d4d821af12ed64e023, type: 2}
+  - {fileID: 11400000, guid: dd0a209236491664f914b2252bd93430, type: 2}
+  - {fileID: 11400000, guid: 2454beb8c6cfa55458d812f2d5e6e09e, type: 2}
+  ingredientItems:
+  - {fileID: 11400000, guid: bf2097d2da6fb47478ab086fffeac890, type: 2}
+  - {fileID: 11400000, guid: 2c3ab7aea82ae3e45880dbd7e4ede953, type: 2}
+  - {fileID: 11400000, guid: 674baa320278b974eb52c2f3d42634b7, type: 2}
+  - {fileID: 11400000, guid: c0d9d6b8fb57362409989d49b79be6ea, type: 2}
+  - {fileID: 11400000, guid: 2a514202a9d00544491a5f690ea4e7b6, type: 2}
+  - {fileID: 11400000, guid: 29a9f39e7de427a43bbfb1fd4e9b4192, type: 2}
+  - {fileID: 11400000, guid: cb3c76da9f8491f45a099fe6ccb6783a, type: 2}
+  - {fileID: 11400000, guid: e68fab20cfe690748a142bd713847f55, type: 2}
+  - {fileID: 11400000, guid: 26437495c9ae5934d8585f7b40563a78, type: 2}
+  - {fileID: 11400000, guid: a026ad9b7e4aaf642bd93606c0565737, type: 2}
+  - {fileID: 11400000, guid: 11fd23877f162ba42aad7914c82bf4c4, type: 2}
+  - {fileID: 11400000, guid: 3ac4cb8e62d89fc4c87eb87daceef866, type: 2}
+  - {fileID: 11400000, guid: 9c3fa957e7ef5f746b20d0369fde39ba, type: 2}
+  - {fileID: 11400000, guid: f3a491bad87c9c04eaae5f2b778d5a78, type: 2}
+  controllerAssets:
+  - {fileID: 11400000, guid: adcf2bf263430d44595310de746dd114, type: 2}
+  - {fileID: 11400000, guid: cf26993c77b32c449bfc8276a694bc03, type: 2}
+  - {fileID: 11400000, guid: 95c147ec58cb6b7429112f4b8b0caae3, type: 2}
+  - {fileID: 11400000, guid: 8f74af953cb39c84e9b5498a7ca52665, type: 2}
+  - {fileID: 11400000, guid: da9f208d67357234ba2e46101038d78f, type: 2}
+  stationAssets:
+  - {fileID: 11400000, guid: bcb7916a0d86e084395c14572dd169e2, type: 2}
+  - {fileID: 11400000, guid: e32d0c35bbb3f204eb07c59debc109aa, type: 2}
+  - {fileID: 11400000, guid: a0ea26d5af0de7d45a4dc062892fa0eb, type: 2}
+  enemyDatas:
+  - {fileID: 4900000, guid: b82828a9e93cd2e4ba58bc420d27bc41, type: 3}
+  - {fileID: 4900000, guid: 527f3f999e0bd4b4cb0246aef0c0f3b1, type: 3}
